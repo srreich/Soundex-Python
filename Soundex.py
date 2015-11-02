@@ -3,7 +3,9 @@
 # 
 # Version 1.0
 # 
-# Stefan Reich
+# Copyright 2015 Stefan Reich
+#
+# Licensed under the MIT license
 #
 
 import re
